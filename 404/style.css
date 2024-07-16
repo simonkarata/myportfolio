@@ -213,6 +213,11 @@ button {
   max-width: 680px;
   margin: auto;
 }
+h2{
+  font-size: 50px;
+  border:2px transparent;
+  min-width: auto;
+}
 
 .error__nav {
   max-width: 600px;
