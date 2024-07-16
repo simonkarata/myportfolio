@@ -198,7 +198,7 @@ header .info-text .scroll::before{
 .scroll-top{
     display: none;
     position: fixed;
-    bottom: 20px;
+    bottom: 55px;
     right: 20px;
     background-color: #2b2f4b;
     color: #fff;
